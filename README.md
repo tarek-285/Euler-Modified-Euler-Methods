@@ -1,1 +1,37 @@
 # Euler-Modified-Euler-Heun-Methods
+# Numerical Solutions to ODEs: Euler & Heun Methods
+
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
+![Course](https://img.shields.io/badge/Course-CSE261-green)
+
+This repository contains a robust C++ implementation of numerical methods for solving Ordinary Differential Equations (ODEs). It was developed as part of the **Group C1** assignment for the Numerical Analysis course.
+
+The project solves test ODEs, compares numerical approximations with exact analytical solutions, and generates error analysis plots.
+
+## 📋 Table of Contents
+- [Implemented Methods](#-implemented-methods)
+- [Project Structure](#-project-structure)
+- [Mathematical Formulation](#-mathematical-formulation)
+- [Build & Run Instructions](#-build--run-instructions)
+- [Results & Visualization](#-results--visualization)
+- [Group Members](#-group-members)
+
+## 🚀 Implemented Methods
+We have implemented three primary single-step methods:
+1.  **Euler's Method** (First-order accuracy)
+2.  **Heun's Method** (Modified Euler / Predictor-Corrector)
+3.  **Midpoint Method** (Runge-Kutta 2nd Order)
+
+## 📂 Project Structure
+```text
+Numerical-ODE-Solver-CPP/
+├── src/
+│   ├── main.cpp          # Entry point and test configuration
+│   ├── ODESolver.cpp     # Implementation of numerical algorithms
+│   └── ODESolver.h       # Header file (Class definition)
+├── data/                 # Generated CSV files containing simulation results
+├── plots/                # Python-generated graphs (PNG)
+├── tools/
+│   └── plot_results.py   # Python script for data visualization
+├── docs/                 # Assignment requirements and LaTeX reports
+└── README.md             # Project Documentation
