@@ -35,3 +35,20 @@ Numerical-ODE-Solver-CPP/
 │   └── plot_results.py   # Python script for data visualization
 ├── docs/                 # Assignment requirements and LaTeX reports
 └── README.md             # Project Documentation
+```
+## 👥 Team & Collaboration
+
+This project is a **group assignment** developed collaboratively by **Group C1** as part of the *Numerical Analysis (CSE261)* course.  
+The team consists of **10 members**, who worked together on mathematical analysis, C++ implementation, testing, and documentation.
+
+### 👤 Group Members
+1. **Tarek Hossian** — ID: 2024100000382    
+2. **Nura Nusrat Jannat** — ID: 2024000000320  
+3. **Pritom Chowdhury** — ID: 2024000000007  
+4. **Muntaha Hasnat Prionty** — ID: 2024000000033  
+5. **Mesbah Uddin Molla** — ID: 2024000000105  
+6. **Sumaiya Akter Mim** — ID: 2024100000265  
+7. **Asifur Rahman Asif** — ID: 2024000000330  
+8. **Riyad Uz Zaman** — ID: 2024000000231
+9. **Tawfiq Al Ibad** — ID: 2024000000068  
+10. **Mahjabeen Tur** — ID: 2024200000319  
